@@ -1,0 +1,295 @@
+{
+  "bfe812c9-1937-4356-b484-88ab1136aaa4": {
+    "id": "bfe812c9-1937-4356-b484-88ab1136aaa4",
+    "name": "Global Layer",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "e2db9ed2-d884-4443-af8c-94af791b8f74",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        },
+        {
+          "id": "850d5e8e-8304-4424-945a-c9af77a3a7a8",
+          "type": "Tags",
+          "name": "Tags",
+          "active": true,
+          "tags": []
+        }
+      ]
+    },
+    "children": [],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 3
+  },
+  "fa5aadaa-cbcc-4875-aad9-25190bc61698": {
+    "id": "fa5aadaa-cbcc-4875-aad9-25190bc61698",
+    "name": "Bed_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "5f994f4e-d889-4221-afc2-0458f9a6a6cc",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Camera Position",
+            "Bed Model"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "aeed7f78-36a6-4a0e-94b1-4df6825b4216",
+      "21d7b0bd-d818-49e6-a157-4bc68ec7095b"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 4
+  },
+  "e858c10f-6325-4125-b51b-23f1d88c4f55": {
+    "id": "e858c10f-6325-4125-b51b-23f1d88c4f55",
+    "name": "Headboard",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "5a569437-c940-4e51-a589-2d2a7e9bee52",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Camera Position",
+            "Leg Height",
+            "Headboard",
+            "Color"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "98fe863f-b948-414b-981d-c601b5c3f73d",
+      "46e54198-3b13-47ec-b503-a22485b09110"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 4
+  },
+  "0909b36d-0112-4604-bd0d-17a42e341b90": {
+    "id": "0909b36d-0112-4604-bd0d-17a42e341b90",
+    "name": "Headboard_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "5ae77e78-15f6-4ff6-b85b-1fa3db897589",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Headboard",
+            "Leg Height",
+            "Camera Position",
+            "Bed Model"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "fed5d2ff-7226-44c8-924c-a0fd84e25929",
+      "d128941e-7b62-4f7f-8cfc-fb48fc2c83eb"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 4
+  },
+  "e9fd1ebf-8df3-4c4a-802b-e0a2b4dabbd4": {
+    "id": "e9fd1ebf-8df3-4c4a-802b-e0a2b4dabbd4",
+    "name": "Legs",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "777fcdef-d8f6-4018-85b8-f0e809d1da3d",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Legs",
+            "Camera Position",
+            "Leg Height",
+            "HeadboardWeird"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "501b41bc-d709-42d4-b9ff-d0c49682bb1c",
+      "78ae7050-15d5-49f2-b5fb-146435b7be0a",
+      "71ddc2eb-2292-4dc6-956c-78bc39fbfcd6"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 5
+  },
+  "25d0f5c2-f938-4a22-9946-e498377828e8": {
+    "id": "25d0f5c2-f938-4a22-9946-e498377828e8",
+    "name": "Bed",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "10938607-2af2-4e90-9cde-ab8bd89fa260",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Camera Position",
+            "Leg Height",
+            "Bed Model",
+            "HeadboardWeird",
+            "LegsWeird",
+            "Color"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "cadcde07-633e-410d-8d7a-cf7b18c6bb83",
+      "0aeddf4c-b086-46c7-aefa-c854e264f1b3",
+      "6853c9bd-038e-4c18-a65f-6c6a6e86c32d"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 5
+  },
+  "473ea544-ed10-4841-812f-5077887fd003": {
+    "id": "473ea544-ed10-4841-812f-5077887fd003",
+    "name": "Plate",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "52523fa0-c920-4f87-b25a-6286e7753196",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Plate Color",
+            "Bed Model",
+            "Leg Height",
+            "Camera Position"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "9d2603d4-f015-4871-828d-5beab9f66c3e",
+      "5155a568-8f24-4db7-bf9a-01a067e01b5f"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 4
+  },
+  "71086a3f-bf31-41fe-9de4-a5519b981d98": {
+    "id": "71086a3f-bf31-41fe-9de4-a5519b981d98",
+    "name": "Mattress_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "7c6f0e0d-f2f6-4283-95d9-ccd98222bf24",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Toppers",
+            "Leg Height",
+            "Camera Position",
+            "Bed Model",
+            "Headboard"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "102ec063-b68b-4416-af4e-ef47affcd21b",
+      "f3f42f3d-a32d-4d06-9825-6272e83bc4ba",
+      "e02ad19f-4f42-43ae-bb37-c1c0589c96ef"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 5
+  },
+  "ff23e328-c714-4157-8b59-a25dde4d0258": {
+    "id": "ff23e328-c714-4157-8b59-a25dde4d0258",
+    "name": "Mattress",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "3d84634b-be73-4f31-b130-53859068773e",
+          "type": "LayerProperties",
+          "name": "Layer Properties",
+          "active": true,
+          "attributes": [
+            "Toppers",
+            "Camera Position",
+            "Leg Height",
+            "HeadboardWeird",
+            "Color"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "bc2ad067-6110-4cf1-8588-2df0d91c7c06",
+      "dd8e75f6-ef4b-4b30-bae4-24b592d6e915",
+      "f7e9bcd4-26fb-461f-8072-9ba3bd36dcc4"
+    ],
+    "parent": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "sceneId": "f4a619ae-7e75-4b6b-bf30-4d9d42e59363",
+    "_v": 5
+  }
+}

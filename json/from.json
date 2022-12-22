@@ -1,0 +1,294 @@
+{
+  "f8bfb81d-82a3-4ec7-b4b7-3b92b05d294d": {
+    "id": "f8bfb81d-82a3-4ec7-b4b7-3b92b05d294d",
+    "name": "Global Layer",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "eceef0f0-6095-4487-a988-425edaa29690",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [],
+          "deletable": false,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 3
+  },
+  "2063cd1d-e354-4298-80e6-da6ad511c9c3": {
+    "id": "2063cd1d-e354-4298-80e6-da6ad511c9c3",
+    "name": "Bed_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "08ae3c98-5dd9-4e03-82df-238882d184a1",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "38d22fab-21bb-4a3a-8a99-accd6683b8af",
+            "0590bdaf-26e6-4ed8-a061-320e2bfb0c43",
+            "b58f2883-bcc0-4af2-a27c-3c16129813ab",
+            "06324f0c-444d-4475-9191-14f2510ec25c",
+            "6f571db1-ef19-49b1-8d20-3b3f378ecbe0"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "4eceaa0c-09aa-45f0-9581-39108df8f557",
+      "18d1216c-d0cd-4910-8d55-ab20f814f2f9"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 4
+  },
+  "88a8c1e4-3eed-4899-a537-61fcd0ede80c": {
+    "id": "88a8c1e4-3eed-4899-a537-61fcd0ede80c",
+    "name": "Headboard",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "024c48f5-0d40-47e5-99a3-e31dedf3e8f0",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "34f24934-83fa-45e1-a1f8-f4e8b34abb54",
+            "58647a98-0753-431b-a1c6-ccb6bd730449"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "e2bb1e69-4850-4e61-9671-1d2ba3461e22",
+      "bc525a2b-fee9-48d9-83fd-a4591dac0215"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 4
+  },
+  "d8794ec0-d4c0-4e3e-9b48-8ad3847ec31d": {
+    "id": "d8794ec0-d4c0-4e3e-9b48-8ad3847ec31d",
+    "name": "Headboard_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "96a1b2aa-c7c6-4f3b-a3cc-cb03b9510dc7",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "34f24934-83fa-45e1-a1f8-f4e8b34abb54",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "38d22fab-21bb-4a3a-8a99-accd6683b8af"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "32891614-2bc8-45c3-bb90-a4bc84d52c74",
+      "72059b0d-e83f-4c38-b5be-e27f22117c33"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 4
+  },
+  "959bfcfb-47c4-41e7-8e83-3d0c80d231a8": {
+    "id": "959bfcfb-47c4-41e7-8e83-3d0c80d231a8",
+    "name": "Legs",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "c1a45e2b-1f0f-40fb-84f8-03fa9d9144fd",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "2ac0f74c-7ed0-4260-af71-0fa13f3db756",
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "4852618c-3dd5-4e8f-83a0-6e0ca092c373"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "2f1bd25b-9887-4762-b838-d00abfe0de34",
+      "61e332ad-2303-4d2c-8ef0-522b1392cad4",
+      "867549ef-0a0f-431a-bb9a-12a5305a6a24"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 5
+  },
+  "a5e26d83-17ae-42b2-9f47-ac9c3a06e045": {
+    "id": "a5e26d83-17ae-42b2-9f47-ac9c3a06e045",
+    "name": "Bed",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "88612ef1-d8b8-47a1-ab1d-12a0ceee97d0",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "38d22fab-21bb-4a3a-8a99-accd6683b8af",
+            "4852618c-3dd5-4e8f-83a0-6e0ca092c373",
+            "e73e83cc-384c-4f2b-b939-43242b3823d2",
+            "58647a98-0753-431b-a1c6-ccb6bd730449",
+            "0590bdaf-26e6-4ed8-a061-320e2bfb0c43"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "0f40d623-73e3-45ae-8dad-f678d18be9e5",
+      "0ccee487-4873-4b29-8c00-fc9b39cf555a",
+      "97e66e83-4974-46a3-ba32-fa8c054983ea"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 5
+  },
+  "7789753a-ef3b-4122-98e4-052f2c6b0909": {
+    "id": "7789753a-ef3b-4122-98e4-052f2c6b0909",
+    "name": "Plate",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "ee48583f-f221-499a-888a-3cc04396ccf3",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "1f1556b4-e583-4c4f-a8b9-a8870788f28e",
+            "38d22fab-21bb-4a3a-8a99-accd6683b8af",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "04b07174-5b6f-4b09-bd43-b4a552f99a4c",
+      "88eae5b6-0407-4a6e-9419-734a9b18d9e2"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 4
+  },
+  "1d1de2dd-2593-4346-b1d8-8a4eb1e8463f": {
+    "id": "1d1de2dd-2593-4346-b1d8-8a4eb1e8463f",
+    "name": "Mattress_Shadow",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "909030f7-fb66-46d2-9d83-e9b9341aa6e0",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "94ef4b98-e6f4-427f-a57e-a0e728a44b43",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "38d22fab-21bb-4a3a-8a99-accd6683b8af",
+            "34f24934-83fa-45e1-a1f8-f4e8b34abb54"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "9c64767f-d9eb-40c0-b9f2-af7926d399dd",
+      "3937fee4-91ad-4a67-a9a1-4917361033cf",
+      "bb23a8bc-318e-4078-a37c-879821dd5b0a"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 5
+  },
+  "18f1dbab-de5b-4e4f-853c-bb3fd336a117": {
+    "id": "18f1dbab-de5b-4e4f-853c-bb3fd336a117",
+    "name": "Mattress",
+    "type": "Layer",
+    "plugs": {
+      "Properties": [
+        {
+          "id": "7f2f3ac6-0397-4f6b-a52c-8e642e0342d1",
+          "type": "LayerProperties",
+          "name": "LayerProperties",
+          "active": true,
+          "attributes": [
+            "94ef4b98-e6f4-427f-a57e-a0e728a44b43",
+            "05459ba2-5de6-43bc-bb56-2ec4248d9035",
+            "d2d61892-3d1a-40a4-af34-fdaed5633eb8",
+            "4852618c-3dd5-4e8f-83a0-6e0ca092c373",
+            "58647a98-0753-431b-a1c6-ccb6bd730449",
+            "0590bdaf-26e6-4ed8-a061-320e2bfb0c43"
+          ],
+          "deletable": true,
+          "render": true,
+          "blendingMode": "source-over",
+          "maskMode": 0
+        }
+      ]
+    },
+    "children": [
+      "9d82daac-3191-477d-aca5-d7f691a0344c",
+      "d65ced07-11d2-40a4-92df-80b0f7e508a1",
+      "e1385ce6-bf05-4b5c-9a4f-df6af5b2319c"
+    ],
+    "parent": "5b381e91-90d6-48e6-aca6-502006057031",
+    "sceneId": "1bfe5be0-73eb-4bb9-b05e-711c0ab0b563",
+    "_v": 5
+  }
+}
